@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var mBinding: ActivityMainBinding
     lateinit var mAppDrawer: AppDrawer
     private lateinit var mToolBar: Toolbar
+    private val ada = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
